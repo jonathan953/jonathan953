@@ -37,10 +37,10 @@ Sou estagiário na área de Risco Operacional no Itaú Unibanco, estudando Siste
 
 <h1> 📈 Stats </h1>
 <p align="center">
-<a href="https://github.com/ContagiousMisfit">
+<a href="https://github.com/jonathan953">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jonathan953&count_private=true&theme=nightowl&show_icons=true" />
 </a>
-<a href="https://github.com/ContagiousMisfit">
+<a href="https://github.com/jonathan953">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan953&theme=nightowl&layout=compact&hide=cmake,c%2B%2B,c" />
 </a>
 </p>
