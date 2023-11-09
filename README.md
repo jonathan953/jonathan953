@@ -28,12 +28,6 @@ Sou estagiário na área de Risco Operacional no Itaú Unibanco, estudando Siste
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-
-## 🌐 Contatos
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-rodrigues-69045716a/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathan.r.goncalvess@gmail.com)
-
-
 ## 📊 Github Stats
   <br/>
     <a href="https://github.com/jonathan953/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jonathan953&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -41,3 +35,8 @@ Sou estagiário na área de Risco Operacional no Itaú Unibanco, estudando Siste
   <br/>
   <b>OBS:</b> As principais linguagens são apenas uma métrica das linguagens que consiste em meu código público e não reflete experiência ou nível de habilidade.
 <br/>
+
+
+## 🌐 Contatos
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-rodrigues-69045716a/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathan.r.goncalvess@gmail.com)
