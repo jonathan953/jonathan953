@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=jonathan953)
 
 
-## 🚀 Sobre mim
+## 🙋‍♂️ Sobre mim
 <div align="justify">
 Sou estagiário na área de Risco Operacional no Itaú Unibanco, estudando Sistemas de Informação na FIAP, apaixonado por programação e data analytics, atualmente estou estudando e aperfeiçoando meus conhecimentos na área de data sience, entendendo todo conceito e construindo alguns modelos de regressão linear, classificação e redes neurais.
 </div>
@@ -39,5 +39,5 @@ Sou estagiário na área de Risco Operacional no Itaú Unibanco, estudando Siste
     <a href="https://github.com/jonathan953/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jonathan953&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/jonathan953/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan953&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>OBS:</b> Os principais idiomas são apenas uma métrica dos idiomas em que meu código público consiste e não reflete experiência ou nível de habilidade.
+  <b>OBS:</b> As principais linguagens são apenas uma métrica das linguagens que consiste em meu código público e não reflete experiência ou nível de habilidade.
 <br/>
