@@ -1,6 +1,4 @@
 # Olá, me chamo Jonathan!
-## Bem vindo ao meu perfil GitHub 👋
-
 ![](https://komarev.com/ghpvc/?username=jonathan953)
 
 
