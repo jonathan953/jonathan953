@@ -29,18 +29,15 @@ Sou estagiário na área de Risco Operacional no Itaú Unibanco, estudando Siste
 ###
 
 
-### 🌐 Redes Sociais
+### 🌐 Contatos
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-rodrigues-69045716a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathan.r.goncalvess@gmail.com)
 ###
 
-
-<h1> 📈 Stats </h1>
-<p align="center">
-<a href="https://github.com/jonathan953">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=jonathan953&count_private=true&theme=nightowl&show_icons=true" />
-</a>
-<a href="https://github.com/jonathan953">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan953&theme=nightowl&layout=compact&hide=cmake,c%2B%2B,c" />
-</a>
-</p>
+## 📊 Github Stats
+  <br/>
+    <a href="https://github.com/jonathan953/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jonathan953&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/jonathan953/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan953&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>OBS:</b> Os principais idiomas são apenas uma métrica dos idiomas em que meu código público consiste e não reflete experiência ou nível de habilidade.
+<br/>
