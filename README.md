@@ -10,8 +10,7 @@ Sou estagiário na área de Risco Operacional no Itaú Unibanco, estudando Siste
 </div>
 
 
-### 💻 Tech Stak
-<div align="justify">
+## 💻 Tech Stak
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -27,16 +26,13 @@ Sou estagiário na área de Risco Operacional no Itaú Unibanco, estudando Siste
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-</div>
-###
 
 
-### 🌐 Contatos
-<div align="justify">
+
+## 🌐 Contatos
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-rodrigues-69045716a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonathan.r.goncalvess@gmail.com)
-</div>
-###
+
 
 ## 📊 Github Stats
   <br/>
