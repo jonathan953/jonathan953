@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ Sobre mim
 <div align="justify">
-Sou estagiário na área de Risco Operacional no Itaú Unibanco, estudando Sistemas de Informação na FIAP, apaixonado por programação e data analytics, atualmente estou estudando e aperfeiçoando meus conhecimentos na área de data sience, entendendo todo conceito e construindo alguns modelos de regressão linear, classificação e redes neurais.
+Atualmente, sou Engenheiro de Software no Banco Itaú, onde atuo como Desenvolvedor Backend com foco em Java. Sou apaixonado por programação e data analytics e, recentemente, tenho me dedicado a aprofundar meus conhecimentos em ciência de dados. Estou explorando conceitos avançados de Machine Learning, realizando todo o pré-processamento de dados, ajustes de hiperparâmetros e desenvolvendo modelos de regressão linear, classificação e redes neurais. Com essas experiências, estou me preparando para, no futuro, atuar como cientista de dados.
 </div>
 
 
